@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gato</string>
+
+    <string name="Ganador"> El juego del gato </string>
+    <string name="historia"> Recuer </string>
+    <string name="todo">TODO</string>
+    <string name="Resultados">Resultados</string>
+    <string name="cosas">cosas</string>
+</resources>
